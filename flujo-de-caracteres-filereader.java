@@ -10,7 +10,7 @@ public class LecturaStreamDeCaracteres {
 				data = lector.read();
 				System.out.print((char)data);
 			}
-			lector.read();
+			lector.close();
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
