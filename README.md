@@ -8,6 +8,11 @@
 
 **EscrituraStreamCaracteresFileWriter.java**: desde código crearemos y escribiremos en un archivo .txt  con la ayuda de la clase FileWriter, mediante un flujo de caracteres.
 
+**CreacionFicheroBytesFileOutputStream.java**: Crearemos un fichero y le agregaremos un array de bytes como datos mediante FileOutputStream.write(arraybites).
+
+**CreacionEliminacionDeFicheros.java**: Crearemos un fichero con File.createNewFile(), y luego lo eliminaremos con File.delete().
+
+**AccesoADatosMoverFichero.java**: Crearemos dos ficheros y moveremos uno a la posición del otro, sustituyéndolo, mediante File.renameTo(File dest).
 
 
 ... Que disfrutéis de la programación con prudencia y paciencia.
