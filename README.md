@@ -14,5 +14,7 @@
 
 **AccesoADatosMoverFichero.java**: Crearemos dos ficheros y moveremos uno a la posición del otro, sustituyéndolo, mediante File.renameTo(File dest).
 
+**LecturaStreamBytesFileInputStream.java**: Leeremos de un fichero .txt creado por nosotros en el código, mediante un stream de bytes, con la clase FileInputStream y su método read(), y lo sacaremos por pantalla.
+
 
 ... Que disfrutéis de la programación con prudencia y paciencia.
