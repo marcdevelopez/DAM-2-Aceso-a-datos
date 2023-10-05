@@ -28,5 +28,8 @@ Cualquier duda no dudéis en preguntarme o consultar páginas como por ejemplo s
 
 **LecturaStreamBytesFileInputStream.java**: Leeremos de un fichero .txt creado por nosotros en el código, mediante un stream de bytes, con la clase FileInputStream y su método read(), y lo sacaremos por pantalla.
 
+**LecturaBytesRandomAccessFile.java**: Leeremos de un fichero .txt un byte correspondiente a la posición 0 del puntero (es decir, el primer carácter (char), utilizando la clase RandomAccessFile en modo lectura ("r").
+
+**EscrituraBytesRandomAccessFile.java**: Escribiremos en un fichero .txt un byte en la posición indicada al puntero. Utilizamos el método RandomAccessFile.seek(long puntero) para indicar el lugar donde escribiremos el byte.
 
 ... Que disfrutéis de la programación con prudencia y paciencia.
