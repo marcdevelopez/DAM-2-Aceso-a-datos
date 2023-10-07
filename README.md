@@ -32,4 +32,6 @@ Cualquier duda no dudéis en preguntarme o consultar páginas como por ejemplo s
 
 **EscrituraBytesRandomAccessFile.java**: Escribiremos en un fichero .txt un byte en la posición indicada al puntero. Utilizamos el método RandomAccessFile.seek(long puntero) para indicar el lugar donde escribiremos el byte.
 
+**LecturaBufferBufferedInputStream.java**: Leeremos de un fichero .txt utilizando buffer con la clase BufferedInputStream y lo mostraremos en pantalla mediante un bucle while.
+
 ... Que disfrutéis de la programación con prudencia y paciencia.
