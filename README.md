@@ -1,4 +1,4 @@
-# acceso-a-datos-dam-2
+# Acceso a datos (DAM 2)
  A este repositorio subiré código de mis prácticas en el módulo "acceso a datos" del segundo curso de DAM.
 
 Puntualizar que solamente están los archivos .java que contienen la clase main de cada proyecto. Para poder ejecutar cada archivo .java deberéis crear un proyecto con vuestro entorno de desarrollo preferido (yo estoy usando Eclipse para este curso), y luego agregar una clase java al proyecto. Después tendréis que copiar el contenido de el archivo .java de este repositorio que queráis ejecutar. Tened en cuenta a la hora de agregar el archivo que éste está en mi proyecto en el package que aparece en la primera línea de código, entonces tendréis que crear dicho paquete con el mismo nombre que aparece en el archivo. Esto suele pedirse en los IDE a la hora de crear-agregar la clase java. Por supuesto, el archivo .java creado en vuestro proyecto deberá tener el mismo nombre que tiene la clase. Ejemplo:
