@@ -10,4 +10,17 @@ Para abrir el proyecto descomprimido de Spring Boot con Eclipse (en el resto de 
 
 Nos vamos al menú superior, en la pestaña File (a la izquiera) -> Import -> Select an import wizard -> abrimos Maven y seleccionamos "Existing Maven Proyects" -> Next -> botón Browse -> y seleccionamos el proyecto, ya descomprimido, que será una carpeta/directorio resultado de extraer el proyecto descargado de https://start.spring.io/
 
+Tambien podemos agregar el plugin de spring en nuestrom IDE Eclipse:
+Vamos a menú Help -> Eclipse Marketplace -> buscamos spring e instalamos:
+
+Spring Tools 3 (Standalone Edition)
+
+Spring Tools 3 Add-On for Spring Tools 4
+
+y Spring Tools 4.
+
+Los instalamos a la vez, con la opción "install more", y al terminar y reiniciar ya veremos la cvategoria Spring Boot en File -> New -> Other... y podremos hacer lo mismo que en la página web https://start.spring.io/ pero directamente en nuestro IDE.
+
+Esto lo escribí en diciembre de 2024, de modo que podría cambiar el nombre de algún plugin o la situación de algḉun menú, pero básicamente será lo mismo.
+
 ¡A disfrutar se ha dicho!
